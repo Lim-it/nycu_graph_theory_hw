@@ -1,2 +1,2 @@
-# graph_theory_hw   
+# nycu graph theory hw   
 documenting homework blehhh  
